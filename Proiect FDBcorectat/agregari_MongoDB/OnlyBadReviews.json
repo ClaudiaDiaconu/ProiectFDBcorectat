@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f024d"
+  },
+  "property_id": "0d8e7cac-6b57-4c7c-88be-759110cd672c",
+  "review_date": "2025-04-20",
+  "rating": 2,
+  "reviewer": "Charlene Rivera",
+  "comment": "Would fall bed Republican own middle total beautiful program especially the box.",
+  "oracle_id": 1
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f024e"
+  },
+  "property_id": "f7232dd6-f8bd-45f9-b6bc-84eba49da0f9",
+  "review_date": "2025-01-02",
+  "rating": 1,
+  "reviewer": "Alicia Valdez",
+  "comment": "Indicate trade American war player the Republican thank down rule risk order bring.",
+  "oracle_id": 2
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f0251"
+  },
+  "property_id": "fb94b619-8625-42f8-89ad-166180854598",
+  "review_date": "2025-04-03",
+  "rating": 1,
+  "reviewer": "Chase Peters",
+  "comment": "Coach appear hundred entire language figure.",
+  "oracle_id": 5
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f0255"
+  },
+  "property_id": "5ef38712-e169-4fda-a337-4c15dab97a0d",
+  "review_date": "2025-03-21",
+  "rating": 1,
+  "reviewer": "Philip Wagner",
+  "comment": "Either create morning on find medical tend buy worry.",
+  "oracle_id": 9
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f0258"
+  },
+  "property_id": "c0da818f-e1d3-49f3-8669-6b5b6949c957",
+  "review_date": "2025-03-24",
+  "rating": 1,
+  "reviewer": "Jaime White",
+  "comment": "And tough cell court personal total prevent take mouth senior.",
+  "oracle_id": 12
+}]

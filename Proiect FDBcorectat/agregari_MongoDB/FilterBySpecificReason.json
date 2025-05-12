@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "68123b79e731f1dca03f0239"
+  },
+  "property_id": "299068c6-9459-43e3-9f53-956cc3f9829e",
+  "modification_date": "2020-01-14",
+  "previous_price": 483628.94,
+  "new_price": 266956.77,
+  "reason": "renovation",
+  "oracle_id": 2
+},
+{
+  "_id": {
+    "$oid": "68123b79e731f1dca03f0241"
+  },
+  "property_id": "41f2afd4-4859-4c5c-9489-2a078c4903ef",
+  "modification_date": "2021-03-19",
+  "previous_price": 481167.6,
+  "new_price": 419558.11,
+  "reason": "renovation",
+  "oracle_id": 10
+},
+{
+  "_id": {
+    "$oid": "68123b79e731f1dca03f0247"
+  },
+  "property_id": "8f89212d-d23b-4c58-9730-b3d431ee6295",
+  "modification_date": "2023-04-26",
+  "previous_price": 169506.47,
+  "new_price": 303556.86,
+  "reason": "renovation",
+  "oracle_id": 16
+},
+{
+  "_id": {
+    "$oid": "68123b79e731f1dca03f0249"
+  },
+  "property_id": "0ff40d35-a1e8-4f9c-9729-5ea2332ed1d0",
+  "modification_date": "2025-01-08",
+  "previous_price": 431133.61,
+  "new_price": 193633.47,
+  "reason": "renovation",
+  "oracle_id": 18
+}]
