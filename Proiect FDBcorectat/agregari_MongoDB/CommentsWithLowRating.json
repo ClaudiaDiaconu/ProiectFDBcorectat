@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f024d"
+  },
+  "property_id": "0d8e7cac-6b57-4c7c-88be-759110cd672c",
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f024e"
+  },
+  "property_id": "f7232dd6-f8bd-45f9-b6bc-84eba49da0f9",
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f0251"
+  },
+  "property_id": "fb94b619-8625-42f8-89ad-166180854598",
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f0255"
+  },
+  "property_id": "5ef38712-e169-4fda-a337-4c15dab97a0d",
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f0258"
+  },
+  "property_id": "c0da818f-e1d3-49f3-8669-6b5b6949c957",
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f0259"
+  },
+  "property_id": "b41efd4c-acca-4301-bbf1-7944822df577",
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f025d"
+  },
+  "property_id": "e81c9808-3648-4a4f-871f-1a3d6aeb0bd3",
+  "rating": 1
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f025f"
+  },
+  "property_id": "d0c19508-02d9-46c1-bda5-a6100dbf2332",
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f0260"
+  },
+  "property_id": "33e21c6b-78d4-4a56-ac6c-8522953d0d4e",
+  "rating": 1
+}]

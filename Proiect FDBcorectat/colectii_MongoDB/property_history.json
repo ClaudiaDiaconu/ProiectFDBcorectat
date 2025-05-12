@@ -1,0 +1,142 @@
+[
+  {
+    "property_id": "df3b671d-e9fa-4782-b1eb-50ec729e1540",
+    "modification_date": "2020-12-22",
+    "previous_price": 221986.17,
+    "new_price": 280569.03,
+    "reason": "market change"
+  },
+  {
+    "property_id": "299068c6-9459-43e3-9f53-956cc3f9829e",
+    "modification_date": "2020-01-14",
+    "previous_price": 483628.94,
+    "new_price": 266956.77,
+    "reason": "renovation"
+  },
+  {
+    "property_id": "ed3751bd-e2dc-4431-9448-9e5237bfc90a",
+    "modification_date": "2023-04-11",
+    "previous_price": 358195.11,
+    "new_price": 389940.0,
+    "reason": "market change"
+  },
+  {
+    "property_id": "4be05ab6-bc4c-4816-a5ab-dcb666e32166",
+    "modification_date": "2023-05-13",
+    "previous_price": 138672.39,
+    "new_price": 367153.13,
+    "reason": "re-evaluation"
+  },
+  {
+    "property_id": "433f80a5-ae6c-416e-a453-d9eb1cffc576",
+    "modification_date": "2020-08-07",
+    "previous_price": 261814.78,
+    "new_price": 310413.49,
+    "reason": "market change"
+  },
+  {
+    "property_id": "595f9f4a-3c57-4bad-bd5a-9495f71be8d3",
+    "modification_date": "2022-04-19",
+    "previous_price": 477547.33,
+    "new_price": 256372.79,
+    "reason": "re-evaluation"
+  },
+  {
+    "property_id": "b4576a6e-4c01-4196-859e-5aac123bbc00",
+    "modification_date": "2020-03-10",
+    "previous_price": 285183.21,
+    "new_price": 180870.14,
+    "reason": "re-evaluation"
+  },
+  {
+    "property_id": "d2f523a0-d556-44ac-8902-1c90ac13e305",
+    "modification_date": "2023-12-07",
+    "previous_price": 243369.76,
+    "new_price": 323123.71,
+    "reason": "owner request"
+  },
+  {
+    "property_id": "4f9a3e35-8f8d-4705-b397-855580e14289",
+    "modification_date": "2023-08-27",
+    "previous_price": 412691.19,
+    "new_price": 305163.33,
+    "reason": "owner request"
+  },
+  {
+    "property_id": "41f2afd4-4859-4c5c-9489-2a078c4903ef",
+    "modification_date": "2021-03-19",
+    "previous_price": 481167.6,
+    "new_price": 419558.11,
+    "reason": "renovation"
+  },
+  {
+    "property_id": "840e689c-c949-4217-8e29-9daa2e078e65",
+    "modification_date": "2021-06-03",
+    "previous_price": 453239.44,
+    "new_price": 275070.62,
+    "reason": "market change"
+  },
+  {
+    "property_id": "d1eaaf69-542d-4562-9159-679261bb403d",
+    "modification_date": "2022-01-26",
+    "previous_price": 210268.3,
+    "new_price": 136930.69,
+    "reason": "re-evaluation"
+  },
+  {
+    "property_id": "ec15fcdf-de60-4418-a0fd-ae3038970746",
+    "modification_date": "2020-08-27",
+    "previous_price": 493398.36,
+    "new_price": 282513.12,
+    "reason": "re-evaluation"
+  },
+  {
+    "property_id": "91f1fd2a-4362-4a09-a0b6-759617d59f29",
+    "modification_date": "2025-01-10",
+    "previous_price": 115583.42,
+    "new_price": 343917.93,
+    "reason": "market change"
+  },
+  {
+    "property_id": "b761b81b-07b7-4b49-b367-466e7fbe5eac",
+    "modification_date": "2023-09-22",
+    "previous_price": 347929.12,
+    "new_price": 489674.55,
+    "reason": "re-evaluation"
+  },
+  {
+    "property_id": "8f89212d-d23b-4c58-9730-b3d431ee6295",
+    "modification_date": "2023-04-26",
+    "previous_price": 169506.47,
+    "new_price": 303556.86,
+    "reason": "renovation"
+  },
+  {
+    "property_id": "c7c6169e-0789-4652-8e85-d95e6ea36971",
+    "modification_date": "2022-07-01",
+    "previous_price": 234804.3,
+    "new_price": 107887.09,
+    "reason": "owner request"
+  },
+  {
+    "property_id": "0ff40d35-a1e8-4f9c-9729-5ea2332ed1d0",
+    "modification_date": "2025-01-08",
+    "previous_price": 431133.61,
+    "new_price": 193633.47,
+    "reason": "renovation"
+  },
+  {
+    "property_id": "b9136ecf-0ac7-4256-b607-02a5ca14903f",
+    "modification_date": "2021-12-15",
+    "previous_price": 279778.27,
+    "new_price": 409428.48,
+    "reason": "market change"
+  },
+  {
+    "property_id": "e0d03fd7-e4c8-4377-8db9-59312832e064",
+    "modification_date": "2021-08-09",
+    "previous_price": 254539.1,
+    "new_price": 447806.51,
+    "reason": "re-evaluation"
+  }
+]

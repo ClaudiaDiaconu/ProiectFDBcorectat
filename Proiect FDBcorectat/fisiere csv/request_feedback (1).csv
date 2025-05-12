@@ -1,0 +1,71 @@
+id,request_id,feedback_date,rating,comments
+1,84,2025-01-12,1,Great deal
+2,54,2025-01-22,1,Not satisfied
+3,71,2025-02-28,3,Good experience
+4,46,2025-03-25,5,Not satisfied
+5,45,2025-01-22,5,Good experience
+6,40,2025-02-04,3,Great deal
+7,23,2025-03-18,4,Good experience
+8,81,2025-04-08,3,Average
+9,11,2025-01-09,3,Good experience
+10,1,2025-02-13,1,Great deal
+11,19,2025-03-29,1,
+12,31,2025-02-11,2,Very satisfied
+13,74,2025-03-04,1,Could be better
+14,34,2025-02-23,3,Good experience
+15,91,2025-04-02,4,Not satisfied
+16,5,2025-04-07,2,Great deal
+17,77,2025-01-28,1,Terrible
+18,78,2025-02-19,5,Terrible
+19,13,2025-04-10,5,Not satisfied
+20,32,2025-02-12,1,Excellent
+21,56,2025-01-25,3,Average
+22,89,2025-02-11,3,
+23,27,2025-01-10,1,Good experience
+24,43,2025-03-13,2,
+25,70,2025-03-24,4,Excellent
+26,16,2025-02-13,1,Not satisfied
+27,41,2025-01-06,4,
+28,97,2025-04-15,4,Excellent
+29,10,2025-03-01,1,Could be better
+30,73,2025-02-24,3,
+31,12,2025-01-27,3,Good experience
+32,48,2025-03-08,5,Could be better
+33,86,2025-03-27,3,Great deal
+34,29,2025-03-01,4,Great deal
+35,94,2025-01-27,2,Good experience
+36,6,2025-01-23,4,Not satisfied
+37,67,2025-03-17,3,Very satisfied
+38,66,2025-02-17,1,Average
+39,36,2025-01-19,5,Great deal
+40,17,2025-01-22,4,Excellent
+41,50,2025-03-17,3,Good experience
+42,35,2025-03-06,4,
+43,8,2025-02-09,4,Not satisfied
+44,96,2025-02-20,2,
+45,28,2025-02-05,1,Average
+46,20,2025-01-15,1,Not satisfied
+47,82,2025-02-09,3,Very satisfied
+48,26,2025-03-22,2,Could be better
+49,63,2025-01-25,2,Excellent
+50,14,2025-03-18,2,Great deal
+51,25,2025-01-20,1,Excellent
+52,4,2025-02-26,4,Could be better
+53,18,2025-02-26,3,Very satisfied
+54,39,2025-03-12,2,Excellent
+55,9,2025-01-10,3,Great deal
+56,79,2025-01-30,2,Not satisfied
+57,7,2025-03-21,5,Average
+58,65,2025-02-01,4,Very satisfied
+59,37,2025-01-24,1,Could be better
+60,90,2025-03-18,3,Excellent
+61,57,2025-04-02,5,Average
+62,100,2025-02-01,5,Very satisfied
+63,55,2025-01-07,5,Average
+64,44,2025-03-27,1,Average
+65,51,2025-03-25,2,Average
+66,68,2025-02-23,4,Very satisfied
+67,47,2025-01-25,4,Could be better
+68,69,2025-02-19,5,Good experience
+69,62,2025-04-05,3,Excellent
+70,98,2025-03-14,3,Not satisfied

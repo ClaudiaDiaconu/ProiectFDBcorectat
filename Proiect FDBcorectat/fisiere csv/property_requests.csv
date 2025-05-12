@@ -1,0 +1,101 @@
+request_id,customer_id,request_date,property_type,max_budget,min_surface,preferred_city,request_status
+1,3085,2025-02-08,Apartment,140902,43,Greece,Open
+2,1701,2025-03-29,Studio,139102,113,Saudi Arabia,Pending
+3,3132,2025-02-12,Apartment,86717,110,Denmark,Pending
+4,1103,2025-02-19,Studio,148574,42,Italy,Pending
+5,57,2025-03-19,Studio,77414,76,Japan,Closed
+6,4053,2025-01-12,House,116568,105,Sweden,Pending
+7,149,2025-03-08,House,95368,68,Unspecified,Open
+8,56,2025-02-06,Apartment,103620,63,Finland,Open
+9,2111,2025-01-02,Apartment,141927,50,Israel,Closed
+10,274,2025-02-27,Apartment,129024,55,Poland,Pending
+11,2862,2025-01-03,Apartment,140969,32,Canada,Closed
+12,1433,2025-01-15,Studio,130868,65,RSA,Closed
+13,2637,2025-03-25,House,109463,119,USA,Closed
+14,1734,2025-03-17,Studio,43675,40,Finland,Closed
+15,284,2025-02-19,Apartment,133806,39,Finland,Open
+16,1358,2025-01-24,House,119542,69,Bahrain,Pending
+17,3859,2025-01-14,Studio,122406,115,Finland,Open
+18,1934,2025-02-12,Studio,149033,70,Cyprus,Pending
+19,2480,2025-03-25,House,131060,64,Netherlands,Pending
+20,905,2025-01-09,Apartment,91172,62,RSA,Pending
+21,2670,2025-03-22,Apartment,94389,43,Italy,Closed
+22,1161,2025-01-04,House,73582,105,Finland,Closed
+23,3862,2025-02-28,Apartment,123156,117,Lebanon,Closed
+24,2458,2025-02-11,Apartment,116214,49,Japan,Closed
+25,3651,2025-01-19,Apartment,147874,63,Australia,Pending
+26,3134,2025-03-03,Studio,52023,59,Brazil,Closed
+27,2424,2025-01-02,Studio,99857,112,RSA,Pending
+28,3902,2025-01-27,House,41198,45,Norway,Open
+29,2545,2025-02-17,Studio,128070,60,Singapore,Pending
+30,3330,2025-04-01,Studio,51479,107,Australia,Closed
+31,3858,2025-02-10,Studio,99943,100,Germany,Closed
+32,1640,2025-01-23,Apartment,140319,99,United Kingdom,Open
+33,3678,2025-03-10,Studio,54073,63,Norway,Pending
+34,4075,2025-02-19,Apartment,87428,65,Czech Republic,Pending
+35,3866,2025-03-05,Studio,128492,36,Brazil,Open
+36,3527,2025-01-18,Apartment,58621,46,Australia,Closed
+37,821,2025-01-16,Apartment,100755,49,EIRE,Pending
+38,4040,2025-03-08,House,143686,45,Germany,Open
+39,1487,2025-02-23,House,132446,105,Poland,Open
+40,4234,2025-01-18,Studio,144527,107,United Arab Emirates,Pending
+41,1130,2025-01-02,Studio,64701,96,Sweden,Closed
+42,3985,2025-02-07,Studio,130632,55,Bahrain,Open
+43,3254,2025-02-26,Apartment,149856,97,United Arab Emirates,Pending
+44,3574,2025-03-16,House,114488,82,Channel Islands,Pending
+45,552,2025-01-03,Apartment,95638,120,EIRE,Pending
+46,3307,2025-03-06,Studio,109608,94,Israel,Pending
+47,3293,2025-01-12,Apartment,131703,31,Unspecified,Pending
+48,1939,2025-02-23,House,149713,68,France,Open
+49,1658,2025-03-16,Studio,122587,31,Lebanon,Closed
+50,17,2025-03-01,Studio,123934,80,Malta,Pending
+51,4326,2025-03-22,Studio,55994,75,Lebanon,Pending
+52,1503,2025-01-05,Apartment,77597,99,Portugal,Pending
+53,3945,2025-01-26,House,129761,50,Singapore,Pending
+54,2751,2025-01-10,Studio,128713,73,Austria,Open
+55,2745,2025-01-06,Studio,62918,105,Greece,Closed
+56,1019,2025-01-14,Studio,112988,64,United Kingdom,Pending
+57,2428,2025-03-14,Apartment,50052,62,EIRE,Open
+58,2516,2025-01-11,House,62212,33,Netherlands,Pending
+59,2549,2025-03-27,Studio,79697,64,Poland,Pending
+60,1715,2025-03-28,House,87890,54,United Kingdom,Closed
+61,4254,2025-03-04,Studio,139236,86,Finland,Pending
+62,3894,2025-03-30,Studio,72150,98,Switzerland,Closed
+63,1418,2025-01-13,House,103980,52,Germany,Pending
+64,1972,2025-01-26,Studio,69055,94,Germany,Open
+65,1727,2025-01-17,Studio,44530,107,Belgium,Open
+66,2823,2025-02-09,Studio,116298,99,Japan,Pending
+67,4311,2025-02-28,Studio,82465,114,Lebanon,Open
+68,2824,2025-02-21,House,66176,119,Iceland,Open
+69,23,2025-02-04,Studio,132286,104,Unspecified,Pending
+70,2468,2025-03-18,Studio,114714,85,Norway,Closed
+71,3560,2025-02-20,Studio,95016,120,Iceland,Pending
+72,334,2025-03-16,Studio,106398,97,Channel Islands,Open
+73,2374,2025-02-15,Apartment,54071,81,Belgium,Open
+74,554,2025-02-17,House,43730,48,Denmark,Open
+75,2072,2025-02-11,House,73243,74,Sweden,Closed
+76,3593,2025-03-18,House,103967,52,Saudi Arabia,Pending
+77,2491,2025-01-22,Apartment,59775,37,Poland,Open
+78,1089,2025-02-05,Studio,130454,91,United Arab Emirates,Open
+79,545,2025-01-27,House,62285,77,Iceland,Closed
+80,154,2025-02-02,House,139160,100,Netherlands,Closed
+81,2757,2025-03-22,House,113921,71,European Community,Closed
+82,3298,2025-01-26,Apartment,45035,53,Finland,Closed
+83,2911,2025-02-10,House,104455,40,Lithuania,Pending
+84,3310,2025-01-02,Studio,114781,94,Germany,Pending
+85,3355,2025-01-13,Studio,129331,56,USA,Closed
+86,938,2025-03-23,Apartment,42596,69,European Community,Pending
+87,3439,2025-02-12,Apartment,121119,54,Lithuania,Pending
+88,3576,2025-02-07,House,133725,56,Germany,Open
+89,1416,2025-02-02,House,87203,51,Channel Islands,Closed
+90,1452,2025-03-11,House,89673,66,Finland,Open
+91,4010,2025-03-17,House,67626,118,Australia,Open
+92,4043,2025-01-13,Studio,105535,66,Malta,Open
+93,2770,2025-02-21,Studio,72949,34,Finland,Pending
+94,251,2025-01-14,House,113628,67,Austria,Closed
+95,2175,2025-02-02,Studio,79342,88,Brazil,Open
+96,1772,2025-02-02,House,84852,99,Unspecified,Pending
+97,1653,2025-03-29,House,142397,78,Unspecified,Pending
+98,696,2025-03-05,House,70020,89,Finland,Open
+99,755,2025-03-31,Studio,46740,51,Belgium,Pending
+100,277,2025-01-24,Studio,108888,49,Japan,Pending
