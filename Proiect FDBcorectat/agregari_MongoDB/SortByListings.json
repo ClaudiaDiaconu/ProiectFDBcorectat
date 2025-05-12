@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "68123c5ee731f1dca03f0266"
+  },
+  "city": "Hatfieldberg",
+  "average_price": 529339.88,
+  "average_surface": 132.59,
+  "timestamp": "2025-03-19T23:44:19",
+  "trend": "stable",
+  "oracle_id": 4
+},
+{
+  "_id": {
+    "$oid": "68123c5ee731f1dca03f0267"
+  },
+  "city": "Patricktown",
+  "average_price": 557338.39,
+  "average_surface": 118.06,
+  "timestamp": "2025-01-29T03:17:29",
+  "trend": "increasing",
+  "oracle_id": 5
+},
+{
+  "_id": {
+    "$oid": "68123c5ee731f1dca03f0264"
+  },
+  "city": "East Robert",
+  "average_price": 491765.75,
+  "average_surface": 107.25,
+  "timestamp": "2025-03-15T14:17:28",
+  "trend": "stable",
+  "oracle_id": 2
+},
+{
+  "_id": {
+    "$oid": "68123c5ee731f1dca03f0263"
+  },
+  "city": "Burchland",
+  "average_price": 319780.61,
+  "average_surface": 81.5,
+  "timestamp": "2025-03-14T18:23:59",
+  "trend": "increasing",
+  "oracle_id": 1
+},
+{
+  "_id": {
+    "$oid": "68123c5ee731f1dca03f0265"
+  },
+  "city": "Port Joannahaven",
+  "average_price": 320993.78,
+  "average_surface": 62.04,
+  "timestamp": "2025-01-10T20:04:35",
+  "trend": "increasing",
+  "oracle_id": 3
+},
+{
+  "_id": {
+    "$oid": "68123c5ee731f1dca03f0268"
+  },
+  "city": "South Abigailfurt",
+  "average_price": 172395.81,
+  "average_surface": 92.79,
+  "timestamp": "2025-03-19T16:03:20",
+  "trend": "increasing",
+  "oracle_id": 6
+}]

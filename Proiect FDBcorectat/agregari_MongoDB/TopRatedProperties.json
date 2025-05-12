@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f0256"
+  },
+  "property_id": "cef5e1ef-0957-40d4-8d70-d206246407ad",
+  "review_date": "2025-04-28",
+  "rating": 5,
+  "reviewer": "Ryan Campbell",
+  "comment": "Employee you training manage main behind recently summer provide peace.",
+  "oracle_id": 10
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f025b"
+  },
+  "property_id": "47440d20-7bfe-44ba-a80e-c6f244f2a78f",
+  "review_date": "2025-03-26",
+  "rating": 5,
+  "reviewer": "Bradley White",
+  "comment": "Prevent budget free nothing Democrat knowledge.",
+  "oracle_id": 15
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f025a"
+  },
+  "property_id": "4bea546e-92f8-4292-a4e1-400fee542c3e",
+  "review_date": "2025-02-12",
+  "rating": 5,
+  "reviewer": "Michael Reyes",
+  "comment": "There movement down police team feeling art beat image.",
+  "oracle_id": 14
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f025c"
+  },
+  "property_id": "16e909e9-c054-47a7-8ea4-421488d02138",
+  "review_date": "2025-03-11",
+  "rating": 4,
+  "reviewer": "Gary Lawrence MD",
+  "comment": "Write sort poor others million finish voice agency.",
+  "oracle_id": 16
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f0254"
+  },
+  "property_id": "a579335d-c70b-4a07-b78c-1ee4d6bc4e97",
+  "review_date": "2025-01-30",
+  "rating": 4,
+  "reviewer": "Kayla Huang",
+  "comment": "Party score determine result today impact finish.",
+  "oracle_id": 8
+},
+{
+  "_id": {
+    "$oid": "68123c02e731f1dca03f025e"
+  },
+  "property_id": "b51c0bcd-93f2-4017-92c1-5ad81dd29e46",
+  "review_date": "2025-03-13",
+  "rating": 4,
+  "reviewer": "Kristin Wright",
+  "comment": "Soldier worry provide teacher attorney tree.",
+  "oracle_id": 18
+}]
